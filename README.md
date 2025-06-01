@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <h1>StreamGuard-AI</h1>
+  <h1>StreamGuard AI</h1>
 
   <p><strong>Beta Version</strong></p>
 
