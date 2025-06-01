@@ -3,11 +3,27 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  <style>
+    .image-container {
+      display: flex;
+      gap: 10px; /* space between images */
+      margin-bottom: 20px;
+    }
+    .image-container img {
+      width: 300px;  /* fixed width */
+      height: auto;  /* maintain aspect ratio */
+      object-fit: contain;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+  </style>
 </head>
 <body>
-<img src="https://github.com/user-attachments/assets/9456f70e-5971-436f-beb1-09e098498e7c"><br>
-<img src="https://github.com/user-attachments/assets/aa731f1a-854b-4f3e-a294-577f39ec5c68">
+
+  <div class="image-container">
+    <img src="https://github.com/user-attachments/assets/9456f70e-5971-436f-beb1-09e098498e7c" alt="Image 1">
+    <img src="https://github.com/user-attachments/assets/aa731f1a-854b-4f3e-a294-577f39ec5c68" alt="Image 2">
+  </div>
 
   <h1>StreamGuard AI</h1>
 
@@ -44,12 +60,15 @@ requests
   <h2>Usage</h2>
   <p>Run the script to start monitoring the specified YouTube channel's live stream. The GUI will update periodically with analysis results.</p>
 
+  <h2>Clone the repository</h2>
+  <p>You can clone the repository from GitHub:</p>
+  <pre><code>git clone https://github.com/Riotcoke123/StreamGuard-AI.git</code></pre>
+
   <h2>Contributing</h2>
   <p>Contributions, bug reports, and feature requests are welcome. Please open an issue or submit a pull request.</p>
 
   <h2>License</h2>
   <p>This project is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" rel="noopener noreferrer">GNU General Public License v3.0</a>.</p>
-
 
 </body>
 </html>
