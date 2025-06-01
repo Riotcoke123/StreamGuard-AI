@@ -48,8 +48,6 @@ requests
   <h2>License</h2>
   <p>This project is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" rel="noopener noreferrer">GNU General Public License v3.0</a>.</p>
 
-  <hr />
-  <p>Repository URL: <a href="https://github.com/Riotcoke123/StreamGuard-AI">https://github.com/Riotcoke123/StreamGuard-AI</a></p>
 
 </body>
 </html>
