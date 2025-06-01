@@ -3,20 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    .image-container {
-      display: flex;
-      gap: 10px; /* space between images */
-      margin-bottom: 20px;
-    }
-    .image-container img {
-      width: 300px;  /* fixed width */
-      height: auto;  /* maintain aspect ratio */
-      object-fit: contain;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-    }
-  </style>
+
 </head>
 <body>
 
