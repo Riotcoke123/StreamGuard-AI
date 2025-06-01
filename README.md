@@ -7,6 +7,7 @@
 </head>
 <body>
 <img src="https://github.com/user-attachments/assets/9456f70e-5971-436f-beb1-09e098498e7c">
+<img src="https://github.com/user-attachments/assets/aa731f1a-854b-4f3e-a294-577f39ec5c68">
 
   <h1>StreamGuard AI</h1>
 
